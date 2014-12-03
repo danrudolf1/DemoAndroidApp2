@@ -5,6 +5,10 @@
     <string name="title_activity_crime">CrimeActivity</string>
     <string name="crime_title_hint">Enter a Title For The Crime</string>
     <string name="action_settings">settings</string>
+    <string name="crime_title_lable">Title</string>
+    <string name="crime_detail_lable">Details</string>
+    <string name="crime_solved_lable">Solved?</string>
+    <string name="crimes_title">Crimes</string>
 
 
 </resources>
